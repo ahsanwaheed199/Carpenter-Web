@@ -1,0 +1,53 @@
+.navbar-nav{
+    width: 30% !important;
+    margin: auto !important;
+}
+.navbar-brand{
+    color:white !important;
+}
+.nav-link:hover{
+  color: gray;
+border-bottom: 2px solid gray;
+}
+.nav-item{
+    font-weight: 900 !important;
+}
+.display{
+    width: 100% !important;
+    position: fixed !important;
+    z-index: 2 !important;
+}
+.style{
+    font-family: 'Times New Roman', Times, serif;
+}
+.margin{
+    padding-top: 5px !important;
+    padding-bottom: 0px !important;
+}
+.para{
+    font-size: 1.3rem !important;
+}
+.heading{
+    font-size: 3rem !important;
+    font-weight: bold !important;
+    text-align: center;
+}
+.img-size img{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+/* FOOTER CSS START HERE */
+.footer{
+    width: 100% !important;
+    color: #666666;
+    background-color: black;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.end{
+    color: white;
+    background-color: #316DD9;
+    text-align: center;
+    height: 63px;
+}
